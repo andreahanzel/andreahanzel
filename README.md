@@ -20,10 +20,13 @@ I’m Andrea Toreki, a Software Engineering student at BYU–Idaho, passionate a
 </div>
 
 ## 📌 Projects
-- [CSE212 Projects](https://github.com/andreahanzel/CSE212-projects) – Data Structures in C#  
-- [E-Commerce API](https://github.com/andreahanzel/CSE341-Project2-Ecommerce-API) – REST API in Node/Express  
-- [Mindful Meal Planner](https://github.com/andreahanzel/Mindful-Meal-Planner) – Full-stack app with CSS & MongoDB  
-- [Portfolio](https://github.com/andreahanzel/portfolio) – My personal portfolio in TypeScript  
+
+- [CSE212 Projects](https://github.com/andreahanzel/CSE212-projects) – Data Structures in C#
+- [E-Commerce API](https://github.com/andreahanzel/CSE341-Project2-Ecommerce-API) – REST API in Node/Express
+- [Mindful Meal Planner](https://github.com/andreahanzel/Mindful-Meal-Planner) – Full-stack app with CSS & MongoDB
+- [Portfolio](https://github.com/andreahanzel/portfolio) – My personal portfolio in TypeScript
+- [Handcrafted Haven](https://github.com/andreahanzel/wdd430-teamproject) – Full-stack group project (TypeScript, Node.js, MongoDB). Built an online handcrafted goods marketplace with user authentication, product management, and responsive UI.
+- [JobBridge](https://github.com/andreahanzel/JobBridge) – Team capstone project hosted on Azure (Blazor, .NET, SQL). A job-matching web app with multi-role architecture (job-seekers, employers, admin), CRUD features, dashboards, and search/filter functionality.
 
 ## 📊 GitHub Stats
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreahanzel&show_icons=true&theme=tokyonight)
