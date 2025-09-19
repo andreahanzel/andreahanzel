@@ -29,5 +29,5 @@ I’m Andrea Toreki, a Software Engineering student at BYU–Idaho, passionate a
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreahanzel&show_icons=true&theme=tokyonight)
 
 ## 🌐 Let’s Connect
-[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/at84/)  
 
